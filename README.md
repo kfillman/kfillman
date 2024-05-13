@@ -3,8 +3,8 @@ Hi, I’m **Kathryn Fillman**, a recent MS graduate with a degree in bioinformat
 
 I have professional interest in...
 - bioinformatics :microscope:
-- data science :bookmark_tabs:
 - data analytics :bar_chart:
+- data science :bookmark_tabs:
 
 My personal interests include...
 - distance running :running:
@@ -16,6 +16,8 @@ My personal interests include...
 - Learning new skills
 - My PMP certification
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 Get in touch
 <div id="badges">
   <a href="https://www.linkedin.com/in/kfillman/">
@@ -23,9 +25,6 @@ My personal interests include...
   </a>
   <a href="https://twitter.com/KathFillman">
     <img src="https://img.shields.io/badge/X_(Formerly_Twitter)-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/kfillman/vizzes">
-    <img src="https://img.shields.io/badge/Tableau_Public-purple?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
 </div>
 
 
