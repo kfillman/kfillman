@@ -1,9 +1,21 @@
-- 👋 Hi, I’m Kathryn Fillman, a recent MS graduate with a degree in bioinformatics and computational biology
-- 👀 I'm actively seeking full-time employment
-- 🌱 I’m currently working on growing my portfolio and learning new skills that can help make data-driven descisions. I am also working toward my PMP certification!
-- 💞️ I’m looking to collaborate on projects that ustilize R, python, SQL, excel, and data visualiztion (using Power BI or Tableau)
-- 📫 You can reach me via LinkedIn (linked on my profile)
-- ⚡ Fun fact: In my free time I enjoying running and volunteering!
+# 👋 Welcome to my GitHub!
+Hi, I’m **Kathryn Fillman**, a recent MS graduate with a degree in bioinformatics and computational biology who is *curretnly seeking full time employment*.
+I have interests in things such as...
+- bioinformatics
+- data science
+- data analytics
+
+My personal interests include
+- distance running
+- hiking
+- environmentalism
+- reading
+## 🌱 I’m currently working on...
+- Growing my portfolio
+- Learning new skills
+- My PMP certification
+## 📫 Get in touch
+You can reach me via LinkedIn or X (formerly twitter), which are both linked on my profile
 
 <!---
 kfillman/kfillman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
