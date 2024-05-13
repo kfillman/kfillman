@@ -2,19 +2,20 @@
 Hi, I’m **Kathryn Fillman**, a recent MS graduate with a degree in bioinformatics and computational biology who is *curretnly seeking full time employment*.
 
 I have professional interest in...
-- bioinformatics
-- data science
-- data analytics
+- bioinformatics :microscope:
+- data science :bookmark_tabs:
+- data analytics :bar_chart:
 
 My personal interests include...
-- distance running
-- hiking
-- environmentalism
-- reading
+- distance running :running:
+- hiking :evergreen_tree:
+- environmentalism & social justice work :earth_americas:
+
 ## 🌱 I’m currently working on...
 - Growing my portfolio
 - Learning new skills
 - My PMP certification
+
 ## 📫 Get in touch
 <div id="badges">
   <a href="https://www.linkedin.com/in/kfillman/">
