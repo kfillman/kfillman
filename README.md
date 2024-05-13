@@ -17,6 +17,18 @@ My personal interests include...
 - My PMP certification
 ## 📫 Get in touch
 You can reach me via LinkedIn or X (formerly twitter), which are both linked on my profile.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kfillman/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/KathFillman">
+    <img src="https://img.shields.io/badge/X_(Formerly_Twitter)-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/kfillman/vizzes">
+    <img src="https://img.shields.io/badge/Tableau_Public-purple?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+</div>
+
+
 
 <!---
 kfillman/kfillman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
