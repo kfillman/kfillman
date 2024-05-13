@@ -16,7 +16,6 @@ My personal interests include...
 - Learning new skills
 - My PMP certification
 ## 📫 Get in touch
-You can reach me via LinkedIn or X (formerly twitter), which are both linked on my profile.
 <div id="badges">
   <a href="https://www.linkedin.com/in/kfillman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
