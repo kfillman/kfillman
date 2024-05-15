@@ -5,11 +5,12 @@ I have professional interest in...
 - bioinformatics :microscope:
 - data analytics :bar_chart:
 - data science :bookmark_tabs:
+- spatial analysis :earth_americas:
 
 My personal interests include...
 - distance running :running:
 - hiking :evergreen_tree:
-- environmentalism & social justice work :earth_americas:
+- environmentalism & social justice work :sun_with_face:
 
 ## 🌱 I’m currently working on...
 - Growing my portfolio
