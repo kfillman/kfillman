@@ -1,5 +1,5 @@
 # 👋 Welcome to my GitHub!
-Hi, I’m **Kathryn Fillman**, a recent MS graduate with a degree in bioinformatics and computational biology who is *curretnly seeking full time employment*.
+Hi, I’m **Kathryn Fillman**, a recent MS graduate with a degree in bioinformatics and computational biology who is currently seeking full time employment.
 
 I have professional interest in...
 - bioinformatics :microscope:
@@ -17,7 +17,7 @@ My personal interests include...
 - Learning new skills
 - My PMP certification
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&exclude_repo=Dr.-Semmelweis-and-the-Discovery-of-Handwashing)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in touch
 <div id="badges">
