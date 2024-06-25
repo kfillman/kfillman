@@ -17,7 +17,7 @@ My personal interests include...
 - Learning new skills
 - My PMP certification
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&exclude_repo=Dr.-Semmelweis-and-the-Discovery-of-Handwashing)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&exclude_repo=Dr.-Semmelweis-and-the-Discovery-of-Handwashing,UrbanAgroecology)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in touch
 <div id="badges">
