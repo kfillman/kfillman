@@ -13,9 +13,8 @@ My personal interests include...
 - environmentalism & social justice work :sun_with_face:
 
 ## 🌱 I’m currently working on...
-- Growing my portfolio
+- Growing my portfolio (many of my projects have been class or research related and thus are not reflected here)
 - Learning new skills
-- My PMP certification
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&exclude_repo=Dr.-Semmelweis-and-the-Discovery-of-Handwashing,UrbanAgroecology)](https://github.com/anuraghazra/github-readme-stats)
 
