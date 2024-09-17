@@ -8,7 +8,7 @@ I have professional interest in...
 - spatial analysis :earth_americas:
 
 My personal interests include...
-- distance running :running:
+- running :running:
 - hiking :evergreen_tree:
 - environmentalism & social justice work :sun_with_face:
 
@@ -23,8 +23,6 @@ My personal interests include...
   <a href="https://www.linkedin.com/in/kfillman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/KathFillman">
-    <img src="https://img.shields.io/badge/X_(Formerly_Twitter)-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
 </div>
 
 
