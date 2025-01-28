@@ -1,5 +1,6 @@
 # 👋 Welcome to my GitHub!
 Hi, I’m **Kathryn Fillman**, a bioinformatician who graduated with a MS in bioinformatics and computational biology in June. I'm currently looking for full time employment that allows me to utilize my analytical skills.
+I'm currently more active on my Tableau where I'm creating visualizations for things that sprak my interest.
 
 I have professional interest in...
 - bioinformatics :microscope:
