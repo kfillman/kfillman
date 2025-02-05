@@ -18,7 +18,7 @@ My personal interests include...
 - Growing my portfolio (many of my coding been for class or research and thus are not reflected here)
 - Learning new skills & keeping up with the latest in science news
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&exclude_repo=Dr.-Semmelweis-and-the-Discovery-of-Handwashing)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in touch
 <div id="badges">
