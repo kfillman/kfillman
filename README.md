@@ -15,7 +15,7 @@ My personal interests include...
 - learning bass :guitar:
 
 ## 🌱 I’m currently working on...
-- Growing my portfolio (many of my coding been for class or research and thus are not reflected here)
+- Growing my portfolio (Most of my coding been for class or research and thus are not reflected here)
 - Learning new skills & keeping up with the latest in science news
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
