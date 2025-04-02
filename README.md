@@ -21,10 +21,17 @@ My personal interests include...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+*note: Jupyter notebooks is not included here as it is not a language*
+
+
 ## 📫 Get in touch
 <div id="badges">
   <a href="https://www.linkedin.com/in/kfillman/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-0A66C2?style=plastic">
+  <a href="https://public.tableau.com/app/profile/kfillman/vizzes/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-6C9CA7?style=plastic">
+  <a href="https://www.Kaggle.com/kfillman/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-5EC2E8?style=plastic&logo=%2320BEFF">
   </a>
 </div>
 
