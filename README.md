@@ -19,9 +19,9 @@ My personal interests include...
 - Learning new skills & keeping up with the latest in science news
 - Creating new visualizations on my Tableau
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
-*note: Jupyter notebooks is not included here as it is not a language*
+*note: Jupyter notebooks is not included in languages as it would be at 90-something %*
 
 
 ## 📫 Get in touch
