@@ -5,8 +5,6 @@ I have professional interest in...
 - Bioinformatics :microscope:
 - Data analytics :bar_chart:
 - Data science :bookmark_tabs:
-- Spatial analysis :earth_americas:
-- Epidemiology :health_worker:
 
 My personal interests include...
 - Running :running:
@@ -15,9 +13,8 @@ My personal interests include...
 - Learning bass :guitar:
 
 ## 🌱 I’m currently working on...
-- Growing my portfolio (Most of my coding been for class or research and thus are not reflected here)
+- Growing my portfolio
 - Learning new skills & keeping up with the latest in science news
-- Creating new visualizations on my Tableau
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kfillman&layout=compact&theme=solarized-light&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
